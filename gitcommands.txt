@@ -1,0 +1,22 @@
+cd Desktop
+ls 
+git clone
+cd seniorproject
+i = insert
+q = quit without saving
+:x = save and quit
+git status
+git add README.md
+git add commit -help
+git commit -m "updated README file for better description"
+git log = to see what you did
+git remote add origin https://github.com/codigoplusplus/senior project = if you havent clone
+git push -u master = to send it to github
+touch file.tex = will create a new file
+git add . = to add untracked files
+---------steps to add file --------
+touch file.tex = will create a new file
+git status
+git add . = to add untracked files
+git commit -m "updated README file for better description"
+git push
